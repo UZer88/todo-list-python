@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы PyInstaller (сборка .exe)
+dist/
+build/
+*.spec
+
+# Данные приложения (личные задачи)
+tasks.json
+
+# Служебные файлы IDE
+.vscode/
+.idea/
+*.swp
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
