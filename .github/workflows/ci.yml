@@ -26,3 +26,7 @@ jobs:
     - name: Run tests with coverage
       run: |
         pytest tests/ -v --cov=todo_core --cov-report=term --cov-fail-under=80
+
+    - name: Build Docker image
+      run: |
+        docker build -t todo-list-web .
