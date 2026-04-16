@@ -1,6 +1,7 @@
 # Todo List на Python
 
 [![CI](https://github.com/UZer88/todo-list-python/actions/workflows/ci.yml/badge.svg)](https://github.com/UZer88/todo-list-python/actions/workflows/ci.yml)
+[![Deployed on Render](https://img.shields.io/badge/deployed%20on-render-blue)](https://todo-list-python.onrender.com)
 
 Консольное приложение для управления списком дел.
 
