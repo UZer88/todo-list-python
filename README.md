@@ -1,5 +1,7 @@
 # Todo List на Python
 
+[![CI](https://github.com/UZer88/todo-list-python/actions/workflows/ci.yml/badge.svg)](https://github.com/UZer88/todo-list-python/actions/workflows/ci.yml)
+
 Консольное приложение для управления списком дел.
 
 ## Возможности
